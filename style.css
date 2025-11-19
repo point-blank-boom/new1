@@ -27,13 +27,13 @@ h2,h3 {
 .firstcontain {
     margin: auto;
     margin-top: 20px;
-    width: 350px;
+    width: 300px;
     background-color: white;
     border-radius: 20px;
 }
 .contain {
     padding: 10px;
-     width: 300px;
+     width: 250px;
     margin: auto;
 }
 .center {
