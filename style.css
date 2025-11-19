@@ -27,13 +27,13 @@ h2,h3 {
 .firstcontain {
     margin: auto;
     margin-top: 20px;
-    width: 400px;
+    width: 350px;
     background-color: white;
     border-radius: 20px;
 }
 .contain {
     padding: 10px;
-     width: 350px;
+     width: 300px;
     margin: auto;
 }
 .center {
@@ -84,6 +84,10 @@ button:hover {
 @media (min-width: 1000px) {
   .firstcontain {
     width: 450px;
+    margin: auto;
+  }
+  .contain {
+    width: 400px;
     margin: auto;
   }
   body{
