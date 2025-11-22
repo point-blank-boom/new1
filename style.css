@@ -13,6 +13,9 @@ body{
     background-image: url('./images/pattern-background-mobile.svg');
     background-repeat:repeat no-repeat;
      background-color: var(--Blue-100);
+      display: grid;
+  place-items: center;
+  height: 100vh;
 }
 h2,h3 {
     color: black;
@@ -23,9 +26,6 @@ h2,h3 {
     width: 300px;
     background-color: white;
     border-radius: 20px;
-      display: grid;
-  place-items: center;
-  height: 100vh;
 }
 .design {
   background-image: url("./images/illustration-hero.svg");
