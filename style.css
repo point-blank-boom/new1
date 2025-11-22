@@ -18,18 +18,20 @@ h2,h3 {
     color: black;
     font-weight: 700;
 }
+.firstcontain {
+    margin-top: 20px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+      display: grid;
+  place-items: center;
+  height: 100vh;
+}
 .design {
   background-image: url("./images/illustration-hero.svg");
   background-repeat: no-repeat;
   height: 200px;
   border-radius: 20px 20px 0 0;
-}
-.firstcontain {
-    margin: auto;
-    margin-top: 20px;
-    width: 300px;
-    background-color: white;
-    border-radius: 20px;
 }
 .contain {
     padding: 10px;
